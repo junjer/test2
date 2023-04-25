@@ -1,0 +1,20 @@
+/* Add CSS styles here to customize the web interface */
+
+body {
+  font-family: Arial;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  margin-block-start: 50px;
+  color: #333;
+  text-shadow: 1px 1px 1px #ccc;
+}
+
+#status {
+  margin-block-start: 20px;
+  font-size: 20px;
+  color: #333;
+  text-shadow: 1px 1px 1px #ccc;
+}
